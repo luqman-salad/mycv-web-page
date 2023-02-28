@@ -350,7 +350,7 @@ body{
 
 @media(max-width: 750px){
     .container{
-        max-width: 600px;
+        max-width: 80%;
         margin: auto;
     }
     .aboutSection{
@@ -363,7 +363,7 @@ body{
 
 @media (max-width: 630px){
     .container{
-        max-width: 500px;
+        max-width: 90%;
         margin: auto;
     }
     .header{
