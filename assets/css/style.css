@@ -349,6 +349,10 @@ body{
 
 
 @media(max-width: 750px){
+    .container{
+        max-width: 600px;
+        margin: auto;
+    }
     .aboutSection{
         grid-template-columns: 1fr;
     }
@@ -358,6 +362,10 @@ body{
 }
 
 @media (max-width: 630px){
+    .container{
+        max-width: 500px;
+        margin: auto;
+    }
     .header{
         flex-direction: column;
         align-items: center;
