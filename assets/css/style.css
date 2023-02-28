@@ -373,6 +373,12 @@ body{
     .header .logo h2{
         margin-bottom: 20px
     }
+    .aboutSection .bios .bio{
+        flex-direction: column;
+    }
+    .aboutSection .bios .bio h3{
+        flex-basis: 0;
+    }
     .ProfessionalSkillsSection .ProfessionalSkills{
         grid-template-columns: 1fr;
     }
