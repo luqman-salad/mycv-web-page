@@ -204,6 +204,9 @@ body{
 .skill .progressArea #wordpressprogressPercent{
     width: 50%;
 }
+.skill .progressArea #wordpressprogressPercent{
+    width: 70%;
+}
 .skill .progressArea #aspnetprogressPercent{
     width: 70%;
 }
